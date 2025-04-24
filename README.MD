@@ -78,7 +78,7 @@ python data_ingestion.py
 ### Step 2: Run the Search Interface
 
 ```bash
-streamlit run streamlit_app/app.py
+streamlit run app.py
 ```
 
 ---
