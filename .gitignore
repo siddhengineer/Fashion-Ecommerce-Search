@@ -1,3 +1,5 @@
 # Ignore virtual environment
 .venv/
 venv/
+temp_auto_push.bat
+temp_interactive_push.bat
